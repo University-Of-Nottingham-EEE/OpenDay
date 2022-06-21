@@ -1,5 +1,9 @@
 /*
-  Dimmer- Al Watson 2015
+University of Nottingham
+Open Day
+LED Dimmer Source Code
+Written By: Al Watson 2015
+Updated By: Alex Ottway 2022
  */
  
 /*Define used pins*/
